@@ -31,10 +31,10 @@ const Payment = () => {
   }, []);
 
   const paymentDetails = {
-    accountNumber: "9118048525",
-    accountName: "PROMISE CHINIYERE",
+    accountNumber: "0102111984",
+    accountName: " PRIMER VENTURES ",
     bank: "BANKIT MFB",
-    amount: "₦25,500",
+    amount: "₦18,500",
   };
 
   useEffect(() => {
