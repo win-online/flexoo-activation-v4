@@ -33,7 +33,7 @@ const Payment = () => {
   const paymentDetails = {
     accountNumber: "0102111984",
     accountName: " PRIMER VENTURES ",
-    bank: "BANKIT MFB",
+    bank: "PAYSTACK MFB",
     amount: "₦18,500",
   };
 
