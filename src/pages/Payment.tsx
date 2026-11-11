@@ -31,9 +31,9 @@ const Payment = () => {
   }, []);
 
   const paymentDetails = {
-    accountNumber: "0102111984",
-    accountName: " PRIMER VENTURES ",
-    bank: "PAYSTACK MFB",
+    accountNumber: "2034408663",
+    accountName: " Aderogba Adeyinka ",
+    bank: "KUDA MFB",
     amount: "₦18,500",
   };
 
